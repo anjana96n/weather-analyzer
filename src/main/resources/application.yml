@@ -1,0 +1,9 @@
+weather:
+  api:
+    base-url: https://api.openweathermap.org/data/2.5/forecast
+    key: 2e9517527d4a6f5e40f64fbcc098e455
+
+spring:
+  cache:
+    type: caffeine
+    cache-names: weather-summary
