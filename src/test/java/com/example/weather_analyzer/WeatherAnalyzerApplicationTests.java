@@ -19,9 +19,7 @@ class WeatherAnalyzerApplicationTests {
         // Print the response or add assertions to verify the data
         System.out.println(response);
 
-        // Example assertion
-        // Assertions.assertNotNull(response);
-        // Assertions.assertTrue(response.contains("London"));
+
     }
 
 }
